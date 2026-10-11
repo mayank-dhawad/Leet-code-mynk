@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/1051-height-checker) |
 ## Hash Table
 |  |

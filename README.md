@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -27,5 +28,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

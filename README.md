@@ -36,6 +36,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0374-guess-number-higher-or-lower) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/1051-height-checker) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mayank-dhawad/Leet-code-mynk/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
